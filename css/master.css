@@ -1,0 +1,12 @@
+body{
+    font-family: 'Open Sans', sans-serif; padding: 20px; background-color: rgb(243, 229, 229);
+}
+p{
+    text-align: justify;
+}
+h1{
+    text-align: center; padding: 20px; background-color: rgb(206, 104, 104);
+}
+img{
+    padding: 20px; box-shadow: rgb(83, 82, 82) 2px 2px 2px;
+}
